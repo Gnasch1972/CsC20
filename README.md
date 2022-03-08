@@ -6,7 +6,6 @@ Programming Concepts and Methodology II
 ### Chapter 1: Elements of Programming
 
   1.1 Your First Program
-  
   1.2 Built-in Types of Data
   
   1.3 Conditionals & Loops
