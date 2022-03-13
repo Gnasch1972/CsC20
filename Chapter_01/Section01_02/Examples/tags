@@ -1,0 +1,5 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+ruler1	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/ruler.py	/^ruler1 = '1'$/;"	v	language:Python
+ruler2	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/ruler.py	/^ruler2 = ruler1 + ' 2 ' + ruler1$/;"	v	language:Python
+ruler3	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/ruler.py	/^ruler3 = ruler2 + ' 3 ' + ruler2$/;"	v	language:Python
+ruler4	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/ruler.py	/^ruler4 = ruler3 + ' 4 ' + ruler3$/;"	v	language:Python
