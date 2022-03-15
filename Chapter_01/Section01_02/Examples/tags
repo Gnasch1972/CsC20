@@ -1,5 +1,28 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+a	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/floatops.py	/^a = float(sys.argv[1])$/;"	v	language:Python
+a	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/intops.py	/^a = int(sys.argv[1])$/;"	v	language:Python
+b	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/floatops.py	/^b = float(sys.argv[2])$/;"	v	language:Python
+b	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/intops.py	/^b = int(sys.argv[2])$/;"	v	language:Python
+b	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/quadratic.py	/^b = float(sys.argv[1])$/;"	v	language:Python
+c	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/quadratic.py	/^c = float(sys.argv[2])$/;"	v	language:Python
+d	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/quadratic.py	/^d = math.sqrt(discriminant)$/;"	v	language:Python
+diff	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/floatops.py	/^diff  = a -  b$/;"	v	language:Python
+diff	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/intops.py	/^diff  = a -  b$/;"	v	language:Python
+discriminant	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/quadratic.py	/^discriminant = b * b - 4.0 * c$/;"	v	language:Python
+exp	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/floatops.py	/^exp   = a ** b$/;"	v	language:Python
+exp	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/intops.py	/^exp   = a ** b$/;"	v	language:Python
+isLeapYear	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/leapyear.py	/^isLeapYear = (year % 4 == 0)$/;"	v	language:Python
+isLeapYear	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/leapyear.py	/^isLeapYear = isLeapYear and ((year % 100) != 0)$/;"	v	language:Python
+isLeapYear	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/leapyear.py	/^isLeapYear = isLeapYear or ((year % 400) == 0)$/;"	v	language:Python
+prod	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/floatops.py	/^prod  = a *  b$/;"	v	language:Python
+prod	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/intops.py	/^prod  = a *  b$/;"	v	language:Python
+quot	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/floatops.py	/^quot  = a \/ b$/;"	v	language:Python
+quot	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/intops.py	/^quot  = a \/\/ b$/;"	v	language:Python
+rem	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/intops.py	/^rem   = a %  b$/;"	v	language:Python
 ruler1	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/ruler.py	/^ruler1 = '1'$/;"	v	language:Python
 ruler2	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/ruler.py	/^ruler2 = ruler1 + ' 2 ' + ruler1$/;"	v	language:Python
 ruler3	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/ruler.py	/^ruler3 = ruler2 + ' 3 ' + ruler2$/;"	v	language:Python
 ruler4	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/ruler.py	/^ruler4 = ruler3 + ' 4 ' + ruler3$/;"	v	language:Python
+total	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/floatops.py	/^total = a +  b$/;"	v	language:Python
+total	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/intops.py	/^total = a +  b$/;"	v	language:Python
+year	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Examples/leapyear.py	/^year = int(sys.argv[1])$/;"	v	language:Python
