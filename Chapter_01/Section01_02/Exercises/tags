@@ -28,6 +28,7 @@ distance	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exerci
 expression	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_03.py	/^expression= lambda a, b:(not (a and b) and (a or b)) or ((a and b) or not(a or b))$/;"	f	language:Python
 forceCorrect	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_14.py	/^forceCorrect  = (GRAVITY * m1 * m2) \/ r**2$/;"	v	language:Python
 forceStudent	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_14.py	/^forceStudent = GRAVITY * m1 * m2 \/ r * r$/;"	v	language:Python
+fV	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_21.py	/^fV = p * math.exp(r * t)$/;"	v	language:Python
 fX	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_18.py	/^fX = math.sin(2 * t) + math.sin(3 * t)$/;"	v	language:Python
 GRAVITY	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_14.py	/^GRAVITY = 6.673E-11   # gravitational constant Nm^2\/kg^2$/;"	v	language:Python
 GRAVITY	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_19.py	/^GRAVITY = 9.80665$/;"	v	language:Python
@@ -39,7 +40,10 @@ logicalC	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exerci
 m	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_20.py	/^m = int(sys.argv[1])$/;"	v	language:Python
 m1	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_14.py	/^m1 = 68               # mass of human in kg$/;"	v	language:Python
 m2	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_14.py	/^m2 = 5.98E24          # mass of the earth$/;"	v	language:Python
+p	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_21.py	/^p = float(sys.argv[2])$/;"	v	language:Python
 r	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_14.py	/^r = 6.38E6             # distance from center of earth of center of human$/;"	v	language:Python
+r	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_21.py	/^r = float(sys.argv[3])$/;"	v	language:Python
+r	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_23.py	/^r = math.sqrt(x**2 + y**2)$/;"	v	language:Python
 sinSquared	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_02.py	/^sinSquared = (math.sin(theta)) ** 2$/;"	v	language:Python
 sumAB	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_12.py	/^sumAB = a + b$/;"	v	language:Python
 sumBC	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_12.py	/^sumBC = b + c$/;"	v	language:Python
@@ -47,10 +51,17 @@ sumCA	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises
 t	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_01.py	/^t = a$/;"	v	language:Python
 t	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_18.py	/^t = float(sys.argv[1])$/;"	v	language:Python
 t	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_19.py	/^t = float(sys.argv[3])$/;"	v	language:Python
+t	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_21.py	/^t = float(sys.argv[1])$/;"	v	language:Python
+t	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_22.py	/^t = float(sys.argv[1])$/;"	v	language:Python
 theta	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_02.py	/^theta = float(sys.argv[1])$/;"	v	language:Python
+theta	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_23.py	/^theta = math.atan2(y, x)$/;"	v	language:Python
 total	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_02.py	/^total = cosSquared + sinSquared$/;"	v	language:Python
+v	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_22.py	/^v = float(sys.argv[2])$/;"	v	language:Python
 vo	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_19.py	/^vo = float(sys.argv[2])$/;"	v	language:Python
+w	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_22.py	/^w = 35.74 + 0.6215 * t + (0.4275 * t - 35.75) * v**(0.16)$/;"	v	language:Python
 x	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_15.py	/^x = float(sys.argv[1])$/;"	v	language:Python
 x	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_19.py	/^x = xo + vo * t - (GRAVITY * t**2) \/ 2$/;"	v	language:Python
+x	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_23.py	/^x = float(sys.argv[1])$/;"	v	language:Python
 xo	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_19.py	/^xo = float(sys.argv[1])$/;"	v	language:Python
 y	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_15.py	/^y = float(sys.argv[2])$/;"	v	language:Python
+y	/home/josephc/Documents/School/CsC/CsC20/Chapter_01/Section01_02/Exercises/Exercise01_02_23.py	/^y = float(sys.argv[2])$/;"	v	language:Python
